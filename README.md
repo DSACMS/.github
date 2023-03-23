@@ -12,7 +12,7 @@ TODO: Example Sections
 ### Team Mission
 ### Project Vision
 ### Project Information
-
+<!-- Example Innersource Project Info
  * [Project Website](https://cms.gov/digital-service-cms)
  * [Project Documentation:](https://confluence.cms.gov/)
  * [Project Sprint/Roadmap:](https://jira.cms.gov/)
@@ -21,12 +21,18 @@ TODO: Example Sections
  * Project Keyword(s) for Search: KEYWORD1, KEYWORD2
  * Project Members:
     * Team Lead, PO, Delivery Lead, Approvers, Trusted Committers etc.
-<!-- Optional Public Info
- * Public Project Contact: opensource@cms.hhs.gov (**NOTE: Do not use individual/personal email addresses**)
+-->
+
+<!-- Example Open Source Info
+ * [Project Website](https://cms.gov/digital-service-cms)
+ * [Project Documentation:](https://confluence.cms.gov/)
+ * Public Contact: opensource@cms.hhs.gov (**NOTE: Do not use individual/personal email addresses**)
  * Follow [@CMSgov](https://twitter.com/cmsgov) on Twitter for updates.
 -->
 
 ### Installation
+
+<!--- Example Install Instructions
 
 1. Clone the repo
 
@@ -51,6 +57,7 @@ TODO: Example Sections
     `make start`
 
 1. Visit [localhost:9001](https://localhost:9001) to view the server
+-->
 
 ### Testing
 
