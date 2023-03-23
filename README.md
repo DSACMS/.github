@@ -11,13 +11,20 @@ TODO: Example Sections
 ### Agency Mission
 ### Team Mission
 ### Project Vision
-
 ### Project Information
 
- * Project Website: https://cms.gov/digital-service-cms 
- * Project Documentation: https://cms.gov/digital-service-cms 
- * Project Contact: opensource@cms.hhs.gov (**NOTE: Do not use individual/personal email addresses**)
+ * [Project Website](https://cms.gov/digital-service-cms)
+ * [Project Documentation:](https://confluence.cms.gov/)
+ * [Project Sprint/Roadmap:](https://jira.cms.gov/)
+ * [Project Slack Channel:](https://cmsgov.slack.com/archives/XXXXXXXXXX)
+ * [Project Tools/Hosting/Deployment:](https://confluence.cms.gov)
+ * Project Keyword(s) for Search: KEYWORD1, KEYWORD2
+ * Project Members:
+    * Team Lead, PO, Delivery Lead, Approvers, Trusted Committers etc.
+<!-- Optional Public Info
+ * Public Project Contact: opensource@cms.hhs.gov (**NOTE: Do not use individual/personal email addresses**)
  * Follow [@CMSgov](https://twitter.com/cmsgov) on Twitter for updates.
+-->
 
 ### Installation
 
