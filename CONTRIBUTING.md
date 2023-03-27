@@ -1,6 +1,7 @@
 <!--- # NOTE: Modify sections marked with `TODO` and then rename the file.-->
-    
+
 # How to Contribute
+
 We're so thankful you're considering contributing to an [open source project of
 the U.S. government](https://code.gov/)! If you're unsure about anything, just
 ask -- or submit the issue or pull request anyway. The worst that can happen is
@@ -9,7 +10,6 @@ contributions.
 
 We encourage you to read this project's CONTRIBUTING policy (you are here), its
 [LICENSE](LICENSE.md), and its [README](README.md).
-
 
 ## Getting Started
 <!--- ### TODO: If you have 'good-first-issue' or 'easy' labels for newcomers, mention them here.-->
@@ -147,7 +147,6 @@ authorship metadata will be preserved.
 
 -->
 
-
 ## Documentation
 
 <!--- 
@@ -160,12 +159,13 @@ docs. Please file an [issue](https://github.com/cmsgov/cmsgov-example-repo/issue
 ## Policies
 
 ### Open Source Policy
+
 We adhere to the [CMS Open Source
 Policy](https://github.com/CMSGov/cms-open-source-policy). If you have any
 questions, just [shoot us an email](mailto:opensource@cms.hhs.gov).
 
-
 ### Security and Responsible Disclosure Policy
+
 The Centers for Medicare & Medicaid Services is committed to ensuring the
 security of the American public by protecting their information from
 unwarranted disclosure. We want security researchers to feel comfortable
@@ -189,7 +189,6 @@ researchers to wait before publicly disclosing vulnerabilities.
 
 If you have other cybersecurity related questions, please contact us at
 [csirc@hhs.gov](mailto:csirc@hhs.gov).
-
 
 ## Public domain
 
