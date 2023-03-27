@@ -12,7 +12,10 @@
       "rule": {
         "type": "file-existence",
         "options": {
-          "globsAny": ["LICENSE*", "COPYING*"],
+          "globsAny": [
+            "LICENSE*",
+            "COPYING*"
+          ],
           "nocase": true
         }
       }
@@ -22,7 +25,9 @@
       "rule": {
         "type": "file-existence",
         "options": {
-          "globsAny": ["README*"],
+          "globsAny": [
+            "README*"
+          ],
           "nocase": true
         }
       }
@@ -32,7 +37,9 @@
       "rule": {
         "type": "file-existence",
         "options": {
-          "globsAny": ["{docs/,.github/,}CONTRIB*"],
+          "globsAny": [
+            "{docs/,.github/,}CONTRIB*"
+          ],
           "nocase": true
         }
       }
@@ -56,7 +63,9 @@
       "rule": {
         "type": "file-existence",
         "options": {
-          "globsAny": ["CHANGELOG*"],
+          "globsAny": [
+            "CHANGELOG*"
+          ],
           "nocase": true
         }
       }
@@ -66,7 +75,9 @@
       "rule": {
         "type": "file-existence",
         "options": {
-          "globsAny": ["{docs/,.github/,}SECURITY.md"]
+          "globsAny": [
+            "{docs/,.github/,}SECURITY.md"
+          ]
         }
       }
     },
@@ -75,7 +86,9 @@
       "rule": {
         "type": "file-existence",
         "options": {
-          "globsAny": ["{docs/,.github/,}SUPPORT*"],
+          "globsAny": [
+            "{docs/,.github/,}SUPPORT*"
+          ],
           "nocase": true
         }
       }
@@ -85,7 +98,9 @@
       "rule": {
         "type": "file-contents",
         "options": {
-          "globsAll": ["README*"],
+          "globsAll": [
+            "README*"
+          ],
           "content": "license",
           "flags": "i"
         }
@@ -96,7 +111,11 @@
       "rule": {
         "type": "file-type-exclusion",
         "options": {
-          "type": ["**/*.exe", "**/*.dll", "!node_modules/**"]
+          "type": [
+            "**/*.exe",
+            "**/*.dll",
+            "!node_modules/**"
+          ]
         }
       }
     },
@@ -105,7 +124,10 @@
       "rule": {
         "type": "directory-existence",
         "options": {
-          "globsAny": ["**/test*", "**/specs"],
+          "globsAny": [
+            "**/test*",
+            "**/specs"
+          ],
           "nocase": true
         }
       }
@@ -154,9 +176,15 @@
       "rule": {
         "type": "file-starts-with",
         "options": {
-          "globsAll": ["**/*.js", "!node_modules/**"],
+          "globsAll": [
+            "**/*.js",
+            "!node_modules/**"
+          ],
           "lineCount": 5,
-          "patterns": ["Copyright", "License"],
+          "patterns": [
+            "Copyright",
+            "License"
+          ],
           "flags": "i"
         }
       }
@@ -167,7 +195,10 @@
         "type": "file-existence",
         "options": {
           "dirs": true,
-          "globsAny": ["ISSUE_TEMPLATE*", ".github/ISSUE_TEMPLATE*"]
+          "globsAny": [
+            "ISSUE_TEMPLATE*",
+            ".github/ISSUE_TEMPLATE*"
+          ]
         }
       }
     },
@@ -186,87 +217,126 @@
     },
     "javascript-package-metadata-exists": {
       "level": "error",
-      "where": ["language=javascript"],
+      "where": [
+        "language=javascript"
+      ],
       "rule": {
         "type": "file-existence",
         "options": {
-          "globsAny": ["package.json"]
+          "globsAny": [
+            "package.json"
+          ]
         }
       }
     },
     "ruby-package-metadata-exists": {
       "level": "error",
-      "where": ["language=ruby"],
+      "where": [
+        "language=ruby"
+      ],
       "rule": {
         "type": "file-existence",
         "options": {
-          "globsAny": ["Gemfile"]
+          "globsAny": [
+            "Gemfile"
+          ]
         }
       }
     },
     "java-package-metadata-exists": {
       "level": "error",
-      "where": ["language=java"],
+      "where": [
+        "language=java"
+      ],
       "rule": {
         "type": "file-existence",
         "options": {
-          "globsAny": ["pom.xml", "build.xml", "build.gradle"]
+          "globsAny": [
+            "pom.xml",
+            "build.xml",
+            "build.gradle"
+          ]
         }
       }
     },
     "python-package-metadata-exists": {
       "level": "error",
-      "where": ["language=python"],
+      "where": [
+        "language=python"
+      ],
       "rule": {
         "type": "file-existence",
         "options": {
-          "globsAny": ["setup.py", "requirements.txt"]
+          "globsAny": [
+            "setup.py",
+            "requirements.txt"
+          ]
         }
       }
     },
     "objective-c-package-metadata-exists": {
       "level": "error",
-      "where": ["language=objective-c"],
+      "where": [
+        "language=objective-c"
+      ],
       "rule": {
         "type": "file-existence",
         "options": {
-          "globsAny": ["Cartfile", "Podfile", "*.podspec"]
+          "globsAny": [
+            "Cartfile",
+            "Podfile",
+            "*.podspec"
+          ]
         }
       }
     },
     "swift-package-metadata-exists": {
       "level": "error",
-      "where": ["language=swift"],
+      "where": [
+        "language=swift"
+      ],
       "rule": {
         "type": "file-existence",
         "options": {
-          "globsAny": ["Package.swift"]
+          "globsAny": [
+            "Package.swift"
+          ]
         }
       }
     },
     "erlang-package-metadata-exists": {
       "level": "error",
-      "where": ["language=erlang"],
+      "where": [
+        "language=erlang"
+      ],
       "rule": {
         "type": "file-existence",
         "options": {
-          "globsAny": ["rebar.config"]
+          "globsAny": [
+            "rebar.config"
+          ]
         }
       }
     },
     "elixir-package-metadata-exists": {
       "level": "error",
-      "where": ["language=elixir"],
+      "where": [
+        "language=elixir"
+      ],
       "rule": {
         "type": "file-existence",
         "options": {
-          "globsAny": ["mix.exs"]
+          "globsAny": [
+            "mix.exs"
+          ]
         }
       }
     },
     "license-detectable-by-licensee": {
       "level": "off",
-      "where": ["license=*"],
+      "where": [
+        "license=*"
+      ],
       "rule": {
         "type": "license-detectable-by-licensee",
         "options": {}
@@ -274,11 +344,15 @@
     },
     "notice-file-exists": {
       "level": "off",
-      "where": ["license=Apache-2.0"],
+      "where": [
+        "license=Apache-2.0"
+      ],
       "rule": {
         "type": "file-existence",
         "options": {
-          "globsAny": ["NOTICE*"],
+          "globsAny": [
+            "NOTICE*"
+          ],
           "fail-message": "The NOTICE file is described in section 4.4 of the Apache License version 2.0. Its presence is not mandated by the license itself, but by ASF policy."
         }
       }
