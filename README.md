@@ -9,8 +9,11 @@ TODO: Project Description (could match GitHub.com Repo Description)
 TODO: Example Sections
 
 ### Agency Mission
+
 ### Team Mission
+
 ### Project Vision
+
 ### Project Information
 <!-- Example Innersource Project Info
  * [Project Website](https://cms.gov/digital-service-cms)

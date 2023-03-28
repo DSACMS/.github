@@ -1,4 +1,5 @@
-### Security and Responsible Disclosure Policy
+# Security and Responsible Disclosure Policy
+
 *Submit a vulnerability:* Unfortunately, we cannot accept secure submissions via
 email or via GitHub Issues. Please use our website to submit vulnerabilities at
 [https://hhs.responsibledisclosure.com](https://hhs.responsibledisclosure.com).
@@ -14,4 +15,3 @@ researchers to wait before publicly disclosing vulnerabilities.
 
 If you have other cybersecurity related questions, please contact us at
 [csirc@hhs.gov.](mailto:csirc@hhs.gov).
-
