@@ -78,7 +78,7 @@ Disclosure Policies, see [SECURITY.md](SECURITY.md).
 ## Authors and Maintainers
 
 For more information about our Authors and maintainers, see [MAINTAINERS.md](MAINTAINERS.md).
-A full list of [contributors](https://github.com/cmsgov/cmsgov-example-repo/graphs/contributors?type=a) can be found on GitHub.
+A full list of [contributors](https://github.com/cmsgov/cmsgov-example-repo/graphs/contributors?type=a) can be found on [https://github.cms.gov/$USERNAME/$REPONAME/graphs/contributors](https://github.cms.gov/$USERNAME/$REPONAME/graphs/contributors).
 
 ## Public domain
 
