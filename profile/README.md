@@ -1,7 +1,7 @@
 ## Digital Service at CMS (DSACMS)
 We're a group of policy minded technologists. We are focused on transforming how the federal government works for the millions of people who rely on Medicare, Medicaid and the Marketplace.
 
-Each term-limited member of the Digital Service at the Centers for Medicare and Medicaid Services brings a unique set of skills to their tour of service to modernize how health care works for America. Below are some examples, but if you don’t see something that reflects your unique experience background, please reach out!
+Each term-limited member of the Digital Service at the Centers for Medicare and Medicaid Services brings a unique set of skills to their tour of service to modernize how health care works for America.
 
 ## Centers for Medicare and Medicaid Services (CMS) 
 
