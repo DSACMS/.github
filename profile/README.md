@@ -1,56 +1,75 @@
 # Digital Service at CMS (DSACMS)
-The Digital Service at CMS is a mission-driven team that is improving how people interact with healthcare in America. Born out of the U.S. Digital Service, the CMS Digital Service is a team of scrappy, highly-motivated, and passionate civic technologists. We hire for the following roles:
+We're a group of civic-minded technologists transforming how the federal government delivers healthcare to the American people. The Digital Service at CMS (DSAC) consists of engineers, designers, and product managers—serving our country by building and maintaining the technology underpinning our national health care programs. 
 
-<ul>
-	<li>Engineers</li>
-	<li>Product managers</li>
-	<li>Designers</li>
-	<li>Data scientists</li>
-</ul>
-
-
-# Centers for Medicare and Medicaid Services (CMS) 
+# Centers for Medicare and Medicaid Services (CMS)
 Every day, millions of people in this country interact with the healthcare system. We believe these interactions should be straightforward, transparent and seamless. Whether it's looking for health insurance, making sense of medical bills, or researching nursing homes, we are working to unlock medical information and empower people with health data.
 
-<ul>
-  <li><strong>88M people on Medicaid</strong> (2022)
-	</li>
-	<li><strong>65M people on Medicare</strong> (2022)
-	</li>
-	<li><strong>31M found insurance in ACA marketplace</strong> (2021)
-	</li>
-</ul>
+- 76M people on Medicaid & CHIP (2024)
+- 67M people on Medicare (2024)
+- 21M found insurance in ACA marketplace (2024)
 
 # What does the Digital Service at CMS do?
 We work to transform the U.S. healthcare system by:
-<ul>
-  <li>Modernizing systems</li>
-	<li>Improving the design of healthcare experiences</li>
-	<li>Participating in policy development</li>
-	<li>Delivering value to the government, healthcare providers, and patients</li>
-</ul>
 
-We accomplish these goals by bringing the best and brightest talent from industry and government to CMS for a "tour of duty." We work alongside dedicated civil servants to solve some of the largest, most complex problems facing our healthcare system.
+- Modernizing systems
+- Improving the design of healthcare experiences
+- Participating in policy development
+- Delivering value to the government, healthcare providers, and patients
+  
+We accomplish these goals by bringing the best and brightest talent from industry and government to CMS for a "tour of duty." By collaborating closely with dedicated CMS career civil servants, our work includes everything from creating public websites to implementing new legislation in back-office systems. Learn more about our work [here.](https://www.cms.gov/digital-service)
 
 # What does the Open Source Program Office (OSPO) at CMS do?
-Establish and maintain guidance, policies, practices, and talent pipelines that advance equity, build trust, and amplify impact across CMS, HHS, and Federal Open Source Ecosystems by working and sharing openly.
+Establish and maintain guidance, policies, practices, and talent pipelines that advance equity, build trust, and amplify impact across CMS, HHS, and Federal Open Source Ecosystems by working and sharing openly. 
 
 ## CMS OSPO in the News
-- Open Source and the Digital Service at CMS.gov - All Things Open 2022 ([VIDEO](https://www.youtube.com/watch?app=desktop&v=Q0EJIevZS0I)) ([DECK](https://github.cms.gov/DSAC/ospo/blob/main/decks/lfms-2022.pdf))
-- [Whitehouse Open Source Software Security Initiative (OS3I) Supply Chain RFI](https://www.whitehouse.gov/oncd/briefing-room/2023/08/10/fact-sheet-office-of-the-national-cyber-director-requests-public-comment-on-open-source-software-security-and-memory-safe-programming-languages/) ([PDF](https://www.whitehouse.gov/wp-content/uploads/2023/08/OS3I-RFI-Embargoed-Until-08102023-0500EST.pdf))
+- [Open Source and the Digital Service at CMS.gov - All Things Open 2022](https://www.youtube.com/watch?v=Q0EJIevZS0I)
+- Whitehouse Open Source Software Security Initiative (OS3I) Supply Chain RFI
 - [Innersource Summit 2023: Innersource to Open Source Journey in Government](https://innersourcecommons.org/events/isc-2023/)
-- [Inside CMS’ Groundbreaking Open Source Program Office](https://www.govconwire.com/2023/10/inside-cms-ground-breaking-open-source-program-office/) ([VIDEO](https://youtu.be/34LQnyB3ydQ?si=7Le5rIQ50A16TfGm))
-- [Repodiving into Open Source at CMS.gov](https://www.socallinuxexpo.org/scale/20x/presentations/repodiving-open-source-cmsgov) ([VIDEO](https://youtu.be/AypgQch2Qpk?si=hoWmptJ2HwarNNng))
-- OSPOs in Highly Regulated Environments Panel Discussion @ [Open Source Summit EU 2023](https://youtu.be/MH04mHkIDu0?si=6YdAxNAILReeUOyQ&t=1006)
-- [TODOGroup OSPOlogy September Meeting](https://www.youtube.com/watch?v=2QopYZbo3EQ)
-- [OSPOs for Good Summit 2023 @ United Nations Headquarters NYC](https://joinup.ec.europa.eu/collection/open-source-observatory-osor/event/ospos-good-building-designing-cooperative-digital-infrastructure)
+- [Inside CMS’ Groundbreaking Open Source Program Office](https://www.youtube.com/watch?v=34LQnyB3ydQ)
+- [Repodiving into Open Source at CMS.gov](https://www.youtube.com/watch?v=AypgQch2Qpk)
+- [OSPOs in Highly Regulated Environments Panel Discussion @ Open Source Summit EU 2023](https://osseu2023.sched.com/event/1OGeo/panel-discussion-ospos-transition-paths-for-regulated-environments-ana-jimenez-santamaria-linux-foundation-maurice-hendriks-city-of-amsterdam-nico-rikken-alliander-clare-dillon-innersourcecommons-thomas-steenbergen-epam?iframe=no&w=100%&sidebar=yes&bg=no)
+- TODOGroup OSPOlogy September 2023 Meeting
+- OSPOs for Good Summit 2023 @ United Nations Headquarters NYC
+- PyCon May 2024
+- Code for America May 2024
+- Open Source Summit North America (OSSNA) 2024 
 
-<!--<p>Meet our Director, <a href="/andrea-fletcher">Andrea Fletcher.</a>
 
-# Your country needs you!
-If you want to show up each day knowing that your work is helping hundreds of millions of Americans, this is the place to be.</p>
+## Acknowlegements
+Our work is developed as a collaboration between the United States Digital
+Service ([USDS.gov](https://usds.gov)), The Department of Health and Human
+Services ([HHS.gov](https://hhs.gov)), The Digital Service at the Centers for
+Medicare & Medicaid Services ([CMS.gov](https://cms.gov)), The
+[USDigitalResponse.org](https://usdigitalresponse.org), and other Federal Open Source Community Members.
 
-<p>We participate in a “tour of duty” service model where you serve up to 4 years. We are currently hiring and salaries follow the <a href="https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2022/general-schedule/">GS pay scale</a><a href="https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2022/general-schedule/">.</a></p>
+Thank you all for your support and contributions.
 
-<p>While previous healthcare experience is not required, we work at the Digital Service at CMS because we share the mission of improving healthcare. If you're interested in more information, contact <a href="mailto:DigitalService@cms.hhs.gov">DigitalService@cms.hhs.gov</a>.</p>
--->
+
+### Policies
+
+### Open Source Policy
+
+We adhere to the [CMS Open Source
+Policy](https://github.com/CMSGov/cms-open-source-policy). If you have any
+questions, just [shoot us an email](mailto:opensource@cms.hhs.gov).
+
+### Security and Responsible Disclosure Policy
+
+*Submit a vulnerability:* Unfortunately, we cannot accept secure submissions via
+email or via GitHub Issues. Please use our website to submit vulnerabilities at
+[https://hhs.responsibledisclosure.com](https://hhs.responsibledisclosure.com).
+HHS maintains an acknowledgements page to recognize your efforts on behalf of
+the American public, but you are also welcome to submit anonymously.
+
+For more information about our Security, Vulnerability, and Responsible Disclosure Policies, see [SECURITY.md](SECURITY.md).
+
+### Public domain
+
+This project is in the public domain within the United States, and copyright
+and related rights in the work worldwide are waived through the [CC0 1.0
+Universal public domain
+dedication](https://creativecommons.org/publicdomain/zero/1.0/) as indicated in [LICENSE](LICENSE).
+
+All contributions to this project will be released under the CC0 dedication. By
+submitting a pull request or issue, you are agreeing to comply with this waiver
+of copyright interest.
