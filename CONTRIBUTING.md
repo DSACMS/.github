@@ -1,6 +1,8 @@
-<!--- # NOTE: Modify sections marked with `TODO` and then rename the file.-->
+<!--- # NOTE: Modify sections marked with `TODO` -->
 
 # How to Contribute
+
+<!-- Basic instructions about where to send patches, check out source code, and get development support.-->
 
 We're so thankful you're considering contributing to an [open source project of
 the U.S. government](https://code.gov/)! If you're unsure about anything, just
@@ -12,53 +14,54 @@ We encourage you to read this project's CONTRIBUTING policy (you are here), its
 [LICENSE](LICENSE.md), and its [README](README.md).
 
 ## Getting Started
-<!--- ### TODO: If you have 'good-first-issue' or 'easy' labels for newcomers, mention them here.-->
+
+<!--- TODO: If you have 'good-first-issue' or 'easy' labels for newcomers, mention them here.-->
 
 ### Team Specific Guidelines
 
+<!-- TODO: This section helps contributors understand any team structure in the project (formal or informal.) Encouraged to point towards the MAINTAINERS.md file for further details.-->
+
 ### Building dependencies
 
-<!--- ### TODO -->
+<!--- TODO: This step is often skipped, so don't forget to include the steps needed to install on your platform. If you project can be multi-platform, this is an excellent place for first time contributors to send patches!-->
 
 ### Building the Project
 
-<!--- ### TODO -->
+<!--- TODO: Be sure to include build scripts and instructions, not just the source code itself! -->
 
 ### Workflow and Branching
 
-<!---
-TODO: Workflow Example
+<!--- TODO: Workflow Example
 We follow the [GitHub Flow Workflow](https://guides.github.com/introduction/flow/)
 
-1.  Fork the project 
-1.  Check out the `main` branch 
-1.  Create a feature branch
-1.  Write code and tests for your change 
-1.  From your branch, make a pull request against `cmsgov/cmsgov-example-repo/main` 
-1.  Work with repo maintainers to get your change reviewed 
-1.  Wait for your change to be pulled into `cmsgov/cmsgov-example-repo/main`
-1.  Delete your feature branch
+1.  Fork the project
+2.  Check out the `main` branch
+3.  Create a feature branch
+4.  Write code and tests for your change
+5.  From your branch, make a pull request against `{{ cookiecutter.project_org }}/{{ cookiecutter.project_repo_name }}/main`
+6.  Work with repo maintainers to get your change reviewed
+7.  Wait for your change to be pulled into `{{ cookiecutter.project_org }}/{{ cookiecutter.project_repo_name }}/main`
+8.  Delete your feature branch
 -->
 
 ### Testing Conventions
 
-<!--- TODO -->
+<!--- TODO: Discuss where tests can be found, how they are run, and what kind of tests/coverage strategy and goals the project has. -->
 
 ### Coding Style and Linters
 
-<!--- TODO: Code Style Guide 
+<!--- TODO: HIGHLY ENCOURAGED. Specific tools will vary between different languages/frameworks (e.g. Black for python, eslint for JavaScript, etc...)
 
 1. Mention any style guides you adhere to (e.g. pep8, etc...)
-1. Mention any linters your project uses (e.g. flake8, jslint, etc...) 
-1. Mention any naming conventions your project uses (e.g. Semantic Versioning, CamelCasing, etc...)
-1. Mention any other content guidelines the project adheres to (e.g. plainlanguage.gov, etc...)
+2. Mention any linters your project uses (e.g. flake8, jslint, etc...)
+3. Mention any naming conventions your project uses (e.g. Semantic Versioning, CamelCasing, etc...)
+4. Mention any other content guidelines the project adheres to (e.g. plainlanguage.gov, etc...)
 
 -->
 
-### Issues
+### Writing Issues
 
-<!---
-TODO: Example Issue Guides
+<!--- TODO: Example Issue Guides
 
 When creating an issue please try to adhere to the following format:
 
@@ -79,10 +82,9 @@ When creating an issue please try to adhere to the following format:
     see our .github/ISSUE_TEMPLATE.md for more examples.
 -->
 
-### Pull Requests
+### Writing Pull Requests
 
-<!---
-### TODO: Confirm
+<!-- TODO: Make a brief statement about where to file pull/merge requests, and conventions for doing so. Link to PULL_REQUEST_TEMPLATE.md file.
 
 Comments should be formatted to a width no greater than 80 columns.
 
@@ -111,20 +113,21 @@ columns (You can use `fmt -n -p -w 80` to accomplish this).
 
 Some important notes regarding the summary line:
 
-* Describe what was done; not the result 
-* Use the active voice 
-* Use the present tense 
-* Capitalize properly 
-* Do not end in a period — this is a title/subject 
+* Describe what was done; not the result
+* Use the active voice
+* Use the present tense
+* Capitalize properly
+* Do not end in a period — this is a title/subject
 * Prefix the subject with its scope
 
     see our .github/PULL_REQUEST_TEMPLATE.md for more examples.
 -->
 
-## Code Review
+## Reviewing Pull Requests
 
-<!---
-### TODO: Code Review Example
+<!--- TODO: Make a brief statement about how pull-requests are reviewed, and who is doing the reviewing. Linking to MAINTAINERS.md can help.
+
+Code Review Example
 
 The repository on GitHub is kept in sync with an internal repository at
 github.cms.gov. For the most part this process should be transparent to the
@@ -147,13 +150,18 @@ authorship metadata will be preserved.
 
 -->
 
+<!--
+## Shipping Releases
+
+<!-- TODO: What cadence does your project ship new releases? (e.g. one-time, ad-hoc, periodically, upon merge of new patches) Who does so? 
+-->
+
 ## Documentation
 
-<!--- 
-### TODO: Documentation Example
+<!-- TODO: Documentation Example
 
 We also welcome improvements to the project documentation or to the existing
-docs. Please file an [issue](https://github.com/cmsgov/cmsgov-example-repo/issues).
+docs. Please file an [issue](https://github.com/{{ cookiecutter.project_org }}/{{ cookiecutter.project_repo_name }}/issues).
 -->
 
 ## Policies
@@ -166,29 +174,13 @@ questions, just [shoot us an email](mailto:opensource@cms.hhs.gov).
 
 ### Security and Responsible Disclosure Policy
 
-The Centers for Medicare & Medicaid Services is committed to ensuring the
-security of the American public by protecting their information from
-unwarranted disclosure. We want security researchers to feel comfortable
-reporting vulnerabilities they have discovered so we can fix them and keep our
-users safe. We developed our disclosure policy to reflect our values and uphold
-our sense of responsibility to security researchers who share their expertise
-with us in good faith.
-
 *Submit a vulnerability:* Unfortunately, we cannot accept secure submissions via
 email or via GitHub Issues. Please use our website to submit vulnerabilities at
 [https://hhs.responsibledisclosure.com](https://hhs.responsibledisclosure.com).
 HHS maintains an acknowledgements page to recognize your efforts on behalf of
 the American public, but you are also welcome to submit anonymously.
 
-Review the HHS Disclosure Policy and websites in scope:
-[https://www.hhs.gov/vulnerability-disclosure-policy/index.html](https://www.hhs.gov/vulnerability-disclosure-policy/index.html).
-
-This policy describes *what systems and types of research* are covered under this
-policy, *how to send* us vulnerability reports, and *how long* we ask security
-researchers to wait before publicly disclosing vulnerabilities.
-
-If you have other cybersecurity related questions, please contact us at
-[csirc@hhs.gov](mailto:csirc@hhs.gov).
+For more information about our Security, Vulnerability, and Responsible Disclosure Policies, see [SECURITY.md](SECURITY.md).
 
 ## Public domain
 
