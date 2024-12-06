@@ -52,8 +52,8 @@ Establish and maintain guidance, policies, practices, and talent pipelines that 
 - [https://atarc.org/event/open-source-summit/](https://atarc.org/event/open-source-summit/)
 - [Strengthening government engagement with the OSS community @ Code for America Summit 2024](https://events.bizzabo.com/codeforamerica/agenda/session/1339808)
 - [Repository Cohorts talk @ Open Source Summit North America 2024](https://youtu.be/FpVNSAj9eDg?si=HwfqpQwEktVj6MTs)
-- [Poster Session @ PyCon May 2024](https://us.pycon.org/2024/speaker/profile/195/)
-- [How OSPOs Can Programmatically Categorize All Their Repositories](https://www.youtube.com/watch?v=FpVNSAj9eDg)
+- [Repository Cohorts: Poster Session @ PyCon May 2024](https://us.pycon.org/2024/speaker/profile/195/)
+- [Repository Cohorts: How OSPOs Can Programmatically Categorize All Their Repositories](https://www.youtube.com/watch?v=FpVNSAj9eDg)
 - [Establishing a Repository Baseline Talk @ Open Source Summit North America 2024](https://youtu.be/v0aaVBicOjI?si=WHE6nLg2BEe7NWY5)
 - [Open Source and the Digital Service at CMS.gov, All Things Open 2022 w/Melissa Eggelston](https://www.youtube.com/watch?v=Q0EJIevZS0I)
     - Also presented at: [Linux Foundation Member Summit Deck](/decks/lfms-2022.pdf) hosted at https://static.sched.com/hosted_files/lfms22/0c/lfms-2022.pdf
