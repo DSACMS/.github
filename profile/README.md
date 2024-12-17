@@ -48,7 +48,8 @@ Establish and maintain guidance, policies, practices, and talent pipelines that 
 
 
 ## External Talks
-- [Open Source in Government: Raising the Floor and Ceiling as an Early-Career Software Engineer](https://ghc.anitab.org/session-catalog/?search=open%20source#/session/1717218938114001YRXT)
+- [DSAC Lightning Talk @ Nava OSS Summit 2024](https://youtu.be/XGGcH8JnQns?si=Q3YiEFPxx5FyQxJ3)
+- [Open Source in Government: Raising the Floor and Ceiling as an Early-Career Software Engineer @ Grace Hopper Conference 2024](https://ghc.anitab.org/session-catalog/?search=open%20source#/session/1717218938114001YRXT)
 - [Open Source Summit: Advancing IT Solutions in Federal Health and Beyond](https://www.navapbc.com/events/open-source-summit-federal-health)
 - [https://atarc.org/event/open-source-summit/](https://atarc.org/event/open-source-summit/)
 - [Strengthening government engagement with the OSS community @ Code for America Summit 2024](https://events.bizzabo.com/codeforamerica/agenda/session/1339808)
