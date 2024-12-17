@@ -46,6 +46,7 @@ Establish and maintain guidance, policies, practices, and talent pipelines that 
 - OSPOs for Good Summit 2023 @ United Nations Headquarters NYC
 - [Open Source and the Digital Service at CMS.gov - All Things Open 2022](https://www.youtube.com/watch?v=Q0EJIevZS0I)
 
+
 ## External Talks
 - [Open Source in Government: Raising the Floor and Ceiling as an Early-Career Software Engineer](https://ghc.anitab.org/session-catalog/?search=open%20source#/session/1717218938114001YRXT)
 - [Open Source Summit: Advancing IT Solutions in Federal Health and Beyond](https://www.navapbc.com/events/open-source-summit-federal-health)
@@ -60,14 +61,14 @@ Establish and maintain guidance, policies, practices, and talent pipelines that 
 - [TODOGroup.org Monthly Meetup: OSPOs & Transition Paths for Highly Regulated Environments](https://www.youtube.com/watch?v=2QopYZbo3EQ)
 - [Open Source Summit EU 2023: OSPOs & Transition Paths for Regulated Environments](https://www.youtube.com/watch?v=kIMNgGfwvMA)
 
-  ## Podcasts & Interviews
+## Podcasts & Interviews
 - [Managing Federal CHAOSS at CMS.gov (Podcast)](https://podcast.chaoss.community/81)
 - [Inside CMS’s work to become more digital and open-source](https://fedscoop.com/radio/inside-cmss-work-to-become-more-digital-and-open-source-andrea-fletcher/)
 - [Securing the Future of Open Source Software](https://govciomedia.com/securing-the-future-of-open-source-software/)
 - [When 150M people depend on your code: Open source and government with Remy DeCausemaker](https://www.youtube.com/watch?v=kvM_DA9lk_Y)
 - [The power and responsibility of open source at CMS.](https://www.youtube.com/watch?v=I-8wy4H0Vy4)
 
-## Acknowlegements
+# Acknowlegements
 Our work is developed as a collaboration between the United States Digital
 Service ([USDS.gov](https://usds.gov)), The Department of Health and Human
 Services ([HHS.gov](https://hhs.gov)), The Digital Service at the Centers for
@@ -76,16 +77,15 @@ Medicare & Medicaid Services ([CMS.gov](https://cms.gov)), The
 
 Thank you all for your support and contributions.
 
+# Policies
 
-### Policies
-
-### Open Source Policy
+## Open Source Policy
 
 We adhere to the [CMS Open Source
 Policy](https://github.com/CMSGov/cms-open-source-policy). If you have any
 questions, just [shoot us an email](mailto:opensource@cms.hhs.gov).
 
-### Security and Responsible Disclosure Policy
+## Security and Responsible Disclosure Policy
 
 *Submit a vulnerability:* Unfortunately, we cannot accept secure submissions via
 email or via GitHub Issues. Please use our website to submit vulnerabilities at
@@ -95,7 +95,7 @@ the American public, but you are also welcome to submit anonymously.
 
 For more information about our Security, Vulnerability, and Responsible Disclosure Policies, see [SECURITY.md](SECURITY.md).
 
-### Public domain
+## Public domain
 
 This project is in the public domain within the United States, and copyright
 and related rights in the work worldwide are waived through the [CC0 1.0
