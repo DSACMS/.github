@@ -1,3 +1,11 @@
+---
+name: Issue template
+about: Standard Issue Template
+title: 'Issue Template'
+labels: ''
+assignees: ''
+
+---
 ## Issue Report
 
 module-name: One line summary of the issue (less than 72 characters)
