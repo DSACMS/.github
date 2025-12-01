@@ -27,6 +27,7 @@ Establish and maintain guidance, policies, practices, and talent pipelines that 
 - [Sharing is Caring: How CMS is Leading on Federal Open Source Requirements: A FormFest 2025 Profile](https://digitalgovernmenthub.org/publications/sharing-is-caring-how-cms-is-leading-on-federal-open-source-requirements-a-formfest-2025-profile/)
 - [GovCIO: Fed Efficiency Drive Includes Code-Sharing Law](https://govciomedia.com/fed-efficiency-drive-includes-code-sharing-law-metahumans/)
 - [GovCIO: New SHARE IT Act Mandates Federal Code Sharing to Cut Software Costs](https://govciomedia.com/new-share-it-act-mandates-federal-code-sharing-to-cut-software-costs/)
+- [FedScoop: Meet the Winners of the 2025 FedScoop50](https://fedscoop.com/fedscoop50/winners/)
 
 ### 2024
 - [Health IT Leaders Receive Flywheel Awards from GovCIO Media & Research](https://govciomedia.com/health-it-leaders-receive-flywheel-awards-from-govcio-media-research/)
