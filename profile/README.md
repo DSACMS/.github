@@ -27,6 +27,7 @@ Establish and maintain guidance, policies, practices, and talent pipelines that 
 - [repo-scaffolder Repository Templates](https://dsacms.github.io/repo-scaffolder)
 - [Metrics Website](https://dsacms.github.io/metrics)
 - [Medicare Monthly Enrollment Dashboard](https://dsacms.github.io/medicare_monthly_enrollment_dashboard/)
+- [OSPO Year in Review](https://dsacms.github.io/year-in-review)
 
 ### SHARE IT Act Stack
 - [SHARE IT Act Landing Page](https://dsacms.github.io/share-it-act-lp)
@@ -36,6 +37,7 @@ Establish and maintain guidance, policies, practices, and talent pipelines that 
 
 ### Resources
 - [OSPO Guide](https://dsacms.github.io/ospo-guide)
+- [Decks](https://www.github.com/DSACMS/decks)
 
 ## CMS OSPO in the News
 
