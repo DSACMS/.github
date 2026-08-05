@@ -21,6 +21,22 @@ We accomplish these goals by bringing the best and brightest talent from industr
 # What does the Open Source Program Office (OSPO) at CMS do?
 Establish and maintain guidance, policies, practices, and talent pipelines that advance equity, build trust, and amplify impact across CMS, HHS, and Federal Open Source Ecosystems by working and sharing openly. 
 
+## CMS OSPO Projects and Initiatives
+
+### Tools
+- [repo-scaffolder](https://dsacms.github.io/repo-scaffolder)
+- [Metrics Website](https://dsacms.github.io/metrics)
+- [Medicare Monthly Enrollment Dashboard](https://dsacms.github.io/medicare_monthly_enrollment_dashboard/)
+
+### SHARE IT Act Stack
+- [SHARE IT Act Landing Page](https://dsacms.github.io/share-it-act-lp)
+- [code.json Generator](https://dsacms.github.io/codejson-generator/)
+- [code.json Index Generator Website](https://dsacms.github.io/index-generator-website/)
+- [data.json Index Generator Website](https://dsacms.github.io/datajson-index-generator/)
+
+### Resources
+- [OSPO Guide](https://dsacms.github.io/ospo-guide)
+
 ## CMS OSPO in the News
 
 ### 2025
